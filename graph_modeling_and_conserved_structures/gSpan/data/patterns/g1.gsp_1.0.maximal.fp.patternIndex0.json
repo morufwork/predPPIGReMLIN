@@ -1,0 +1,42 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "atomType": "Hydrophobic",
+            "atomTypeInt": "7"
+        },
+        {
+            "index": 1,
+            "atomType": "Aromatic/Hydrophobic",
+            "atomTypeInt": "21"
+        }
+    ],
+    "links": [
+        {
+            "source": 0,
+            "target": 1,
+            "interactionType": "Hydrophobic",
+            "interactionTypeInt": "29"
+        }
+    ],
+    "graphproperties": {
+        "inputgraphs": [
+            8,
+            51,
+            64,
+            78,
+            90,
+            139,
+            216,
+            226,
+            280,
+            294,
+            324,
+            353,
+            362,
+            374,
+            377,
+            382
+        ]
+    }
+}
