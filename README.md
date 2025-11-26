@@ -34,7 +34,7 @@ Refer to the README files in each subdirectory for detailed instructions.
 
 ## Data
 
-The project uses PDB (Protein Data Bank) files as input. Some datasets include PDB IDs protein complexes.
+The project uses PDB (Protein Data Bank) files as input. Some datasets include PDB IDs of protein complexes.
 
 ## License
 
