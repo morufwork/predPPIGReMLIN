@@ -1,0 +1,2350 @@
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001136sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001199sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001243sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001109sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001038sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001086sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001113sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001344sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001392sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001471sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.00136sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001214sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001052sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001062sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001035sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001052sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001044sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 0.gsp with 231 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001003sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002727sec
+		15  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00214sec
+		14  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.0028sec
+		11  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002461sec
+		9  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00259sec
+		9  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002054sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002264sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002311sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00196sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002278sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002046sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002036sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001928sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001426sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001513sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001224sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000985sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 1.gsp with 28 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000864sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.002038sec
+		22  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.001414sec
+		16  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000885sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000898sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000883sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000765sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000791sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000796sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000644sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00057sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000629sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000469sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000568sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000638sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00046sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000574sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00057sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 2.gsp with 35 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000437sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000434sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000508sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000459sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000466sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000471sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000371sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000426sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000476sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000473sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000362sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000437sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000402sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000474sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000423sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000353sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000374sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000422sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 3.gsp with 15 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000316sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.001028sec
+		13  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.000986sec
+		13  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.001039sec
+		13  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.000984sec
+		12  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.00064sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.000752sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.00074sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.000705sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.000609sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.00062sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.00076sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.0007sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.000542sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000563sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000549sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000523sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000438sec
+		1  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 4.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000378sec
+		1  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000817sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000835sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000709sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000818sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000838sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000842sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000697sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000747sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000689sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000611sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000677sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000652sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000536sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000664sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000683sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000652sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00058sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 5.gsp with 42 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000665sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001388sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001214sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001363sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001261sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001457sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001355sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00129sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001356sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001375sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001278sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001173sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001212sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001367sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001382sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001221sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001369sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+-------------------System Performance------------------
+			0.000574sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 6.gsp with 404 graphs
+scanning done
+-------------------System Performance------------------
+			0.000442sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000961sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00116sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001165sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001374sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001501sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002101sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001523sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001598sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001196sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001255sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000898sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000922sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00078sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000698sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000584sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000682sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000595sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 7.gsp with 22 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000555sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.843369sec
+		418  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.336296sec
+		175  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.205499sec
+		107  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.14445sec
+		62  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.099668sec
+		42  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.042297sec
+		24  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.027514sec
+		16  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.006841sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.005855sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00577sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.005727sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.003532sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002394sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002414sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002419sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.002404sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001385sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 8.gsp with 44 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001462sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001312sec
+		12  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001347sec
+		11  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001246sec
+		10  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001025sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001058sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001137sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001206sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001082sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.00088sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000853sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000788sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000855sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.00082sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000718sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000688sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000715sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000696sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 9.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000731sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000799sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000853sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000827sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000887sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000836sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000858sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000878sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000773sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000837sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000811sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00093sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.0009sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000889sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001113sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001099sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001414sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00149sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 10.gsp with 103 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001535sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001019sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000775sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000912sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000734sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000572sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000502sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000449sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000561sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000552sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.00052sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000512sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000563sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000541sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000546sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000523sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000462sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00043sec
+		1  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 11.gsp with 29 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000334sec
+		1  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.026711sec
+		195  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.020558sec
+		139  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.018188sec
+		107  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.01798sec
+		106  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.017596sec
+		102  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.017418sec
+		102  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.017633sec
+		102  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.014235sec
+		81  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.014077sec
+		80  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.013216sec
+		77  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.009sec
+		58  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.007293sec
+		50  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.002913sec
+		22  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.002423sec
+		15  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.001751sec
+		11  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.001766sec
+		11  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.0013sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 12.gsp with 50 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.001356sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+
+
+
+-------------------System Performance------------------
+			0.049247sec
+		170  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.022058sec
+		68  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+
+-------------------System Performance------------------
+			0.016758sec
+		38  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.012807sec
+		19  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.012839sec
+		19  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.01184sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.011932sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.011749sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.011986sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.012042sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.012156sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.011822sec
+		18  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.010227sec
+		16  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.009135sec
+		15  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.008601sec
+		14  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.004849sec
+		11  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.003892sec
+		9  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 13.gsp with 43 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.003868sec
+		9  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000755sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000728sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000568sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.0006sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000597sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000682sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000712sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000764sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000828sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000647sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000858sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001037sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000906sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001103sec
+		4  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001496sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001832sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001795sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 14.gsp with 34 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001859sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+
+
+
+
+-------------------System Performance------------------
+			0.003585sec
+		12  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.002486sec
+		7  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.002299sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+
+
+
+-------------------System Performance------------------
+			0.002289sec
+		5  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.001108sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.001332sec
+		1  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.001179sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000729sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000559sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000324sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000345sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000437sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000327sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000329sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000334sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000404sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.000415sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 15.gsp with 50 graphs
+scanning done
+-------------------System Performance------------------
+			0.00041sec
+		0  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+
+-------------------System Performance------------------
+			0.000673sec
+		6  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000483sec
+		3  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000501sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000368sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000416sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000503sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000507sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000436sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000424sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000489sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000486sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.00047sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000516sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000412sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000484sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000459sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000501sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
+scanning 16.gsp with 23 graphs
+scanning done
+
+-------------------System Performance------------------
+			0.000387sec
+		2  Discovered SubGraphs
+---------------------------End-------------------------
