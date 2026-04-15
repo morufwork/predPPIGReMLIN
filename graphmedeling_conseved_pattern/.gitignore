@@ -1,0 +1,16 @@
+.codex
+.codex/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Generated outputs
+results/
+results_*/
+!results_m8_check/
+!results_m8_check/**
+pdbs/
+
+# Notebook clutter
+Untitled.ipynb
+Untitled2.ipynb

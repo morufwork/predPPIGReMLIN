@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Occurrence Graph Viewer</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      margin: 0;
+      background: #f5f1e8;
+      color: #1d1a16;
+    }
+    .wrap {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+    h1, h2 {
+      margin: 0 0 12px;
+      font-weight: 600;
+    }
+    .meta {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+    .card {
+      background: #fffdf8;
+      border: 1px solid #d9cfbb;
+      border-radius: 14px;
+      padding: 14px 16px;
+      box-shadow: 0 6px 20px rgba(72, 52, 24, 0.06);
+    }
+    .graph-panel {
+      background: #fffdf8;
+      border: 1px solid #d9cfbb;
+      border-radius: 18px;
+      padding: 10px;
+      margin-bottom: 20px;
+    }
+    svg {
+      width: 100%;
+      height: 760px;
+      display: block;
+      background: radial-gradient(circle at top, #fffefb 0%, #f4ecdd 100%);
+      border-radius: 14px;
+    }
+    .legend {
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+      margin: 10px 0 0;
+      font-size: 14px;
+    }
+    .dot {
+      display: inline-block;
+      width: 12px;
+      height: 12px;
+      border-radius: 999px;
+      margin-right: 6px;
+      vertical-align: middle;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fffdf8;
+      border-radius: 14px;
+      overflow: hidden;
+      font-size: 14px;
+    }
+    th, td {
+      text-align: left;
+      padding: 10px 12px;
+      border-bottom: 1px solid #eadfca;
+    }
+    th {
+      background: #efe5d2;
+    }
+    code {
+      font-family: "SFMono-Regular", Consolas, monospace;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Occurrence Graph Viewer</h1>
+    <div class="meta" id="meta"></div>
+    <div class="graph-panel">
+      <svg id="graph" viewBox="0 0 1000 760" preserveAspectRatio="xMidYMid meet"></svg>
+		      <div class="legend">
+		        <div><span class="dot" style="background:#7CB4BE; border-radius:2px; border:2px solid #26454c;"></span>target node</div>
+		        <div><span class="dot" style="background:#9BCE91; border:2px solid #365b2f;"></span>ligand node</div>
+		        <div><span class="dot" style="background:#e4572e; border-radius:2px; border:2px solid #5d1f10;"></span>Matched target node</div>
+		        <div><span class="dot" style="background:#d1498b; border:2px solid #6f1d46;"></span>Matched ligand node</div>
+		      </div>
+    </div>
+    <h2>Matched Residues</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Chain</th>
+          <th>Residue</th>
+          <th>Number</th>
+          <th>Matched Atoms</th>
+          <th>Role</th>
+        </tr>
+      </thead>
+      <tbody id="residue-table"></tbody>
+    </table>
+  </div>
+  <script>
+    const pageData = {"occurrence": {"cluster": 5, "support": "1.0", "patternId": 0, "graphId": 68, "matchedGraphNodeIds": [0, 1, 2], "matchedGraphEdgeIds": [[0, 2], [1, 2]], "matchedPatternNodeIds": ["0", "1", "2"], "matchedPatternEdgeIds": [["0", "1"], ["1", "2"]], "occurrenceId": 2870, "structureContext": {"pdbid": "7efp", "graphId": 68, "chainPair": {"source": "A", "target": "B"}, "pdbFile": "pdbfiles/pdb7efp.ent", "chainPairFile": "pdbs/7efp.A.pdb"}, "matchedAtoms": [{"nodeId": 0, "pdbid": "7efp", "model": 0, "chain": "B", "residueName": "TYR", "residueNumber": 505, "residueInsertionCode": "", "heteroFlag": "", "atomName": "CG", "atomSerial": 6223, "isLigand": true, "coordinates": {"x": -37.53799819946289, "y": -32.54199981689453, "z": -34.494998931884766}}, {"nodeId": 1, "pdbid": "7efp", "model": 0, "chain": "B", "residueName": "TYR", "residueNumber": 505, "residueInsertionCode": "", "heteroFlag": "", "atomName": "CD2", "atomSerial": 6225, "isLigand": true, "coordinates": {"x": -37.41999816894531, "y": -32.3380012512207, "z": -33.11600112915039}}, {"nodeId": 2, "pdbid": "7efp", "model": 0, "chain": "A", "residueName": "LYS", "residueNumber": 353, "residueInsertionCode": "", "heteroFlag": "", "atomName": "CB", "atomSerial": 2733, "isLigand": false, "coordinates": {"x": -39.35499954223633, "y": -29.43199920654297, "z": -33.96799850463867}}], "matchedResidues": [{"pdbid": "7efp", "model": 0, "chain": "A", "residueName": "LYS", "residueNumber": 353, "residueInsertionCode": "", "heteroFlag": "", "isLigand": false, "matchedAtomNodeIds": [2], "matchedAtomSerials": [2733], "matchedAtomNames": ["CB"], "matchedAtomCoordinates": [{"x": -39.35499954223633, "y": -29.43199920654297, "z": -33.96799850463867}], "representativeCoordinates": {"x": -39.35499954223633, "y": -29.43199920654297, "z": -33.96799850463867}, "chainPair": {"source": "A", "target": "B"}, "pdbFile": "pdbfiles/pdb7efp.ent", "chainPairFile": "pdbs/7efp.A.pdb"}, {"pdbid": "7efp", "model": 0, "chain": "B", "residueName": "TYR", "residueNumber": 505, "residueInsertionCode": "", "heteroFlag": "", "isLigand": true, "matchedAtomNodeIds": [0, 1], "matchedAtomSerials": [6223, 6225], "matchedAtomNames": ["CD2", "CG"], "matchedAtomCoordinates": [{"x": -37.53799819946289, "y": -32.54199981689453, "z": -34.494998931884766}, {"x": -37.41999816894531, "y": -32.3380012512207, "z": -33.11600112915039}], "representativeCoordinates": {"x": -37.4789981842041, "y": -32.44000053405762, "z": -33.80550003051758}, "chainPair": {"source": "A", "target": "B"}, "pdbFile": "pdbfiles/pdb7efp.ent", "chainPairFile": "pdbs/7efp.A.pdb"}]}, "graph": {"nodes": [{"index": 0, "patterns": [0], "chain": "B", "atomName": "CG", "residueNumber": "505", "residueName": "TYR", "isLigand": true, "atomType": "Aromatic/Hydrophobic", "color": "#9BCE91", "atomTypeInt": "21"}, {"index": 1, "patterns": [0], "chain": "B", "atomName": "CD2", "residueNumber": "505", "residueName": "TYR", "isLigand": true, "atomType": "Aromatic/Hydrophobic", "color": "#9BCE91", "atomTypeInt": "21"}, {"index": 2, "patterns": [0], "chain": "A", "atomName": "CB", "residueNumber": "353", "residueName": "LYS", "isLigand": false, "atomType": "Hydrophobic", "color": "#7CB4BE", "atomTypeInt": "7"}], "links": [{"patterns": [0], "source": 2, "target": 0, "interactionType": "Hydrophobic", "distance": "3.640237234899002", "interactionTypeInt": "29"}, {"patterns": [0], "source": 2, "target": 1, "interactionType": "Hydrophobic", "distance": "3.593741466236575", "interactionTypeInt": "29"}]}, "graphFile": "results_m8_check/data/graphs/json_1.0/g6.7efp.A.68.graph.json", "graphSize": {"nodeCount": 3, "edgeCount": 2}};
+    const occurrence = pageData.occurrence;
+    const graph = pageData.graph;
+    const matchedNodes = new Set(occurrence.matchedGraphNodeIds.map(String));
+    const matchedEdges = new Set(
+      occurrence.matchedGraphEdgeIds.map(edge => edge.map(String).sort().join('-'))
+    );
+
+    const meta = document.getElementById('meta');
+    const cards = [
+      ['Occurrence', occurrence.occurrenceId],
+      ['Cluster / Pattern', `${occurrence.cluster} / ${occurrence.patternId}`],
+      ['Support', occurrence.support],
+      ['Graph ID', occurrence.graphId],
+      ['Graph Size', `${pageData.graphSize.nodeCount} nodes / ${pageData.graphSize.edgeCount} edges`],
+      ['PDB', occurrence.structureContext.pdbid],
+      ['Chain Pair', `${occurrence.structureContext.chainPair.source}-${occurrence.structureContext.chainPair.target}`],
+      ['Graph File', pageData.graphFile]
+    ];
+    for (const [label, value] of cards) {
+      const card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = `<strong>${label}</strong><br><code>${value}</code>`;
+      meta.appendChild(card);
+    }
+
+    const residueTable = document.getElementById('residue-table');
+    for (const residue of occurrence.matchedResidues) {
+      const row = document.createElement('tr');
+      row.innerHTML = `
+        <td>${residue.chain}</td>
+        <td>${residue.residueName}</td>
+        <td>${residue.residueNumber}</td>
+        <td>${residue.matchedAtomNames.join(', ')}</td>
+        <td>${residue.isLigand ? 'ligand' : 'target'}</td>
+      `;
+      residueTable.appendChild(row);
+    }
+
+    const svg = document.getElementById('graph');
+    const width = 1000;
+    const height = 760;
+	    const nodes = [...graph.nodes].sort((a, b) => a.index - b.index);
+	    const positions = new Map();
+	    const sourceNodes = nodes.filter(node => !node.isLigand);
+	    const targetNodes = nodes.filter(node => node.isLigand);
+	    const laneY = (index, count) => {
+      if (count === 1) return height / 2;
+      const top = 110;
+      const bottom = height - 110;
+      return top + ((bottom - top) * index / (count - 1));
+    };
+    const targetLaneY = (index, count) => {
+      if (count === 1) return height / 2;
+      const top = 70;
+      const bottom = height - 70;
+      return top + ((bottom - top) * index / (count - 1));
+    };
+	    sourceNodes.forEach((node, i) => {
+	      positions.set(String(node.index), {
+	        x: width * 0.28,
+	        y: laneY(i, sourceNodes.length)
+	      });
+	    });
+	    targetNodes.forEach((node, i) => {
+	      positions.set(String(node.index), {
+	        x: width * 0.72,
+	        y: targetLaneY(i, targetNodes.length)
+	      });
+	    });
+
+	    const roleLeft = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+	    roleLeft.setAttribute('x', width * 0.28);
+	    roleLeft.setAttribute('y', 44);
+	    roleLeft.setAttribute('text-anchor', 'middle');
+	    roleLeft.setAttribute('font-size', '18');
+	    roleLeft.setAttribute('font-weight', '700');
+	    roleLeft.setAttribute('fill', '#355d66');
+	    roleLeft.textContent = 'Target';
+	    svg.appendChild(roleLeft);
+
+	    const roleRight = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+	    roleRight.setAttribute('x', width * 0.72);
+	    roleRight.setAttribute('y', 44);
+	    roleRight.setAttribute('text-anchor', 'middle');
+	    roleRight.setAttribute('font-size', '18');
+	    roleRight.setAttribute('font-weight', '700');
+	    roleRight.setAttribute('fill', '#4f7a45');
+	    roleRight.textContent = 'Ligand';
+	    svg.appendChild(roleRight);
+
+    for (const link of graph.links) {
+      const source = positions.get(String(link.source));
+      const target = positions.get(String(link.target));
+      const edgeKey = [String(link.source), String(link.target)].sort().join('-');
+      const line = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+      line.setAttribute('x1', source.x);
+      line.setAttribute('y1', source.y);
+      line.setAttribute('x2', target.x);
+      line.setAttribute('y2', target.y);
+      line.setAttribute('stroke', matchedEdges.has(edgeKey) ? '#e4572e' : '#baa98a');
+      line.setAttribute('stroke-width', matchedEdges.has(edgeKey) ? '4' : '2');
+      line.setAttribute('stroke-linecap', 'round');
+      line.setAttribute('opacity', matchedEdges.has(edgeKey) ? '0.95' : '0.7');
+      svg.appendChild(line);
+    }
+
+    for (const node of nodes) {
+      const pos = positions.get(String(node.index));
+      const isMatched = matchedNodes.has(String(node.index));
+
+	      const group = document.createElementNS('http://www.w3.org/2000/svg', 'g');
+	      const matchedFill = node.isLigand ? '#d1498b' : '#e4572e';
+	      const baseFill = isMatched ? matchedFill : node.color;
+	      const glow = document.createElementNS('http://www.w3.org/2000/svg', node.isLigand ? 'circle' : 'rect');
+	      if (node.isLigand) {
+	        glow.setAttribute('cx', pos.x);
+	        glow.setAttribute('cy', pos.y);
+	        glow.setAttribute('r', isMatched ? '24' : '20');
+	      } else {
+	        const glowSize = isMatched ? 46 : 40;
+	        glow.setAttribute('x', pos.x - glowSize / 2);
+	        glow.setAttribute('y', pos.y - glowSize / 2);
+	        glow.setAttribute('width', glowSize);
+	        glow.setAttribute('height', glowSize);
+	        glow.setAttribute('rx', '6');
+	      }
+	      glow.setAttribute('fill', node.isLigand ? 'rgba(155, 206, 145, 0.18)' : 'rgba(124, 180, 190, 0.2)');
+	      glow.setAttribute('stroke', 'none');
+	      group.appendChild(glow);
+
+	      const nodeShape = document.createElementNS('http://www.w3.org/2000/svg', node.isLigand ? 'circle' : 'rect');
+	      if (node.isLigand) {
+	        nodeShape.setAttribute('cx', pos.x);
+	        nodeShape.setAttribute('cy', pos.y);
+	        nodeShape.setAttribute('r', isMatched ? '19' : '15');
+	      } else {
+	        const size = isMatched ? 36 : 30;
+	        nodeShape.setAttribute('x', pos.x - size / 2);
+	        nodeShape.setAttribute('y', pos.y - size / 2);
+	        nodeShape.setAttribute('width', size);
+	        nodeShape.setAttribute('height', size);
+	        nodeShape.setAttribute('rx', '5');
+	      }
+	      nodeShape.setAttribute('fill', baseFill);
+	      nodeShape.setAttribute('stroke', node.isLigand ? '#365b2f' : '#26454c');
+	      nodeShape.setAttribute('stroke-width', isMatched ? '3.5' : '2.4');
+	      group.appendChild(nodeShape);
+
+      const label = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      label.setAttribute('x', pos.x);
+      label.setAttribute('y', pos.y + 4);
+      label.setAttribute('text-anchor', 'middle');
+      label.setAttribute('font-size', '11');
+      label.setAttribute('font-weight', '700');
+      label.setAttribute('fill', '#fff');
+      label.textContent = node.index;
+      group.appendChild(label);
+
+      const caption = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+      caption.setAttribute('x', pos.x);
+      caption.setAttribute('y', pos.y + (node.isLigand ? 34 : 26));
+      caption.setAttribute('text-anchor', 'middle');
+      caption.setAttribute('font-size', '12');
+      caption.setAttribute('fill', '#2d2419');
+	      caption.textContent = `${node.isLigand ? 'L' : 'P'} | ${node.chain}:${node.residueName}${node.residueNumber}:${node.atomName}`;
+      group.appendChild(caption);
+
+      const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+      title.textContent = [
+        `node=${node.index}`,
+        `chain=${node.chain}`,
+        `residue=${node.residueName}${node.residueNumber}`,
+        `atom=${node.atomName}`,
+        `atomType=${node.atomType}`,
+	        `role=${node.isLigand ? 'ligand' : 'target'}`,
+	        `matched=${isMatched}`
+      ].join(' | ');
+      group.appendChild(title);
+
+      svg.appendChild(group);
+    }
+  </script>
+</body>
+</html>

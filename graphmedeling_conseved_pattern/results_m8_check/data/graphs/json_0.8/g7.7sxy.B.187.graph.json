@@ -1,0 +1,40 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "patterns": [],
+            "chain": "B",
+            "atomName": "NE",
+            "residueNumber": "403",
+            "residueName": "ARG",
+            "isLigand": false,
+            "role": "ligand",
+            "atomType": "Donor/Positive",
+            "color": "#7CB4BE",
+            "atomTypeInt": "55"
+        },
+        {
+            "index": 1,
+            "patterns": [],
+            "chain": "E",
+            "atomName": "NZ",
+            "residueNumber": "353",
+            "residueName": "LYS",
+            "isLigand": true,
+            "role": "target",
+            "atomType": "Donor/Positive",
+            "color": "#9BCE91",
+            "atomTypeInt": "55"
+        }
+    ],
+    "links": [
+        {
+            "patterns": [],
+            "source": 0,
+            "target": 1,
+            "interactionType": "Repulsive",
+            "distance": "5.9057583240981835",
+            "interactionTypeInt": "37"
+        }
+    ]
+}

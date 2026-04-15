@@ -1,0 +1,55 @@
+{
+    "current": {
+        "resultsDir": "results_m8_check",
+        "graphsCount": 396,
+        "clusterCount": 7,
+        "hasGSpanFp": true,
+        "maximalPatternCount": 24,
+        "legacyOutputs": {
+            "graphs.txt": true,
+            "count_matrix.csv": true,
+            "clusters.csv": true,
+            "gSpan.fp": true,
+            "maximal.json": true,
+            "data": true
+        },
+        "newOutputs": {
+            "pattern_occurrences.json": true,
+            "pattern_occurrences_residue.json": true,
+            "pattern_hotspots_summary.csv": true,
+            "visualization": true
+        }
+    },
+    "baseline": {
+        "resultsDir": "results_wsl_check_fix",
+        "graphsCount": 396,
+        "clusterCount": 7,
+        "hasGSpanFp": true,
+        "maximalPatternCount": 24,
+        "legacyOutputs": {
+            "graphs.txt": true,
+            "count_matrix.csv": true,
+            "clusters.csv": true,
+            "gSpan.fp": true,
+            "maximal.json": true,
+            "data": true
+        },
+        "newOutputs": {
+            "pattern_occurrences.json": false,
+            "pattern_occurrences_residue.json": false,
+            "pattern_hotspots_summary.csv": false,
+            "visualization": false
+        }
+    },
+    "comparisons": {
+        "graphsCountUnchanged": true,
+        "clusterCountUnchanged": true,
+        "hasGSpanFpUnchanged": true,
+        "maximalPatternCountUnchanged": true
+    },
+    "checks": {
+        "legacyOutputsPreserved": true,
+        "newOutputsGenerated": true,
+        "miningSemanticsStable": true
+    }
+}

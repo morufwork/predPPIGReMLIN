@@ -1,0 +1,2506 @@
+[
+    {
+        "cluster": 0,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 0,
+        "graphId": 9,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_0_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 83,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    532
+                ],
+                "matchedAtomNames": [
+                    "CE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -35.263999938964844,
+                        "y": 44.606998443603516,
+                        "z": -4.860000133514404
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -35.263999938964844,
+                    "y": 44.606998443603516,
+                    "z": -4.860000133514404
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 486,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6086
+                ],
+                "matchedAtomNames": [
+                    "CZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -38.7130012512207,
+                        "y": 46.06700134277344,
+                        "z": -5.440999984741211
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -38.7130012512207,
+                    "y": 46.06700134277344,
+                    "z": -5.440999984741211
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 67
+    },
+    {
+        "cluster": 0,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 67,
+        "graphId": 9,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_0_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 83,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    532
+                ],
+                "matchedAtomNames": [
+                    "CE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -35.263999938964844,
+                        "y": 44.606998443603516,
+                        "z": -4.860000133514404
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -35.263999938964844,
+                    "y": 44.606998443603516,
+                    "z": -4.860000133514404
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 486,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6086
+                ],
+                "matchedAtomNames": [
+                    "CZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -38.7130012512207,
+                        "y": 46.06700134277344,
+                        "z": -5.440999984741211
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -38.7130012512207,
+                    "y": 46.06700134277344,
+                    "z": -5.440999984741211
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 67
+    },
+    {
+        "cluster": 0,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 134,
+        "graphId": 9,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_0_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 83,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    532
+                ],
+                "matchedAtomNames": [
+                    "CE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -35.263999938964844,
+                        "y": 44.606998443603516,
+                        "z": -4.860000133514404
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -35.263999938964844,
+                    "y": 44.606998443603516,
+                    "z": -4.860000133514404
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 486,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6086
+                ],
+                "matchedAtomNames": [
+                    "CZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -38.7130012512207,
+                        "y": 46.06700134277344,
+                        "z": -5.440999984741211
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -38.7130012512207,
+                    "y": 46.06700134277344,
+                    "z": -5.440999984741211
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 67
+    },
+    {
+        "cluster": 0,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 201,
+        "graphId": 9,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_0_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 83,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    532
+                ],
+                "matchedAtomNames": [
+                    "CE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -35.263999938964844,
+                        "y": 44.606998443603516,
+                        "z": -4.860000133514404
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -35.263999938964844,
+                    "y": 44.606998443603516,
+                    "z": -4.860000133514404
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 486,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6086
+                ],
+                "matchedAtomNames": [
+                    "CZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -38.7130012512207,
+                        "y": 46.06700134277344,
+                        "z": -5.440999984741211
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -38.7130012512207,
+                    "y": 46.06700134277344,
+                    "z": -5.440999984741211
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 67
+    },
+    {
+        "cluster": 1,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 268,
+        "graphId": 6,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_1_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 41,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    196
+                ],
+                "matchedAtomNames": [
+                    "OH"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -36.077999114990234,
+                        "y": 14.680999755859375,
+                        "z": 0.08799999952316284
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -36.077999114990234,
+                    "y": 14.680999755859375,
+                    "z": 0.08799999952316284
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "THR",
+                "residueNumber": 500,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6208
+                ],
+                "matchedAtomNames": [
+                    "OG1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.3489990234375,
+                        "y": 12.496000289916992,
+                        "z": 1.1109999418258667
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.3489990234375,
+                    "y": 12.496000289916992,
+                    "z": 1.1109999418258667
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 34
+    },
+    {
+        "cluster": 1,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 302,
+        "graphId": 6,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_1_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 41,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    196
+                ],
+                "matchedAtomNames": [
+                    "OH"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -36.077999114990234,
+                        "y": 14.680999755859375,
+                        "z": 0.08799999952316284
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -36.077999114990234,
+                    "y": 14.680999755859375,
+                    "z": 0.08799999952316284
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "THR",
+                "residueNumber": 500,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6208
+                ],
+                "matchedAtomNames": [
+                    "OG1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.3489990234375,
+                        "y": 12.496000289916992,
+                        "z": 1.1109999418258667
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.3489990234375,
+                    "y": 12.496000289916992,
+                    "z": 1.1109999418258667
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 34
+    },
+    {
+        "cluster": 1,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 336,
+        "graphId": 6,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_1_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 41,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    196
+                ],
+                "matchedAtomNames": [
+                    "OH"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -36.077999114990234,
+                        "y": 14.680999755859375,
+                        "z": 0.08799999952316284
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -36.077999114990234,
+                    "y": 14.680999755859375,
+                    "z": 0.08799999952316284
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "THR",
+                "residueNumber": 500,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6208
+                ],
+                "matchedAtomNames": [
+                    "OG1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.3489990234375,
+                        "y": 12.496000289916992,
+                        "z": 1.1109999418258667
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.3489990234375,
+                    "y": 12.496000289916992,
+                    "z": 1.1109999418258667
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 34
+    },
+    {
+        "cluster": 1,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 370,
+        "graphId": 6,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_1_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "TYR",
+                "residueNumber": 41,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    196
+                ],
+                "matchedAtomNames": [
+                    "OH"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -36.077999114990234,
+                        "y": 14.680999755859375,
+                        "z": 0.08799999952316284
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -36.077999114990234,
+                    "y": 14.680999755859375,
+                    "z": 0.08799999952316284
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "THR",
+                "residueNumber": 500,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6208
+                ],
+                "matchedAtomNames": [
+                    "OG1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.3489990234375,
+                        "y": 12.496000289916992,
+                        "z": 1.1109999418258667
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.3489990234375,
+                    "y": 12.496000289916992,
+                    "z": 1.1109999418258667
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 34
+    },
+    {
+        "cluster": 2,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 404,
+        "graphId": 4,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_2_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "LYS",
+                "residueNumber": 31,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    105
+                ],
+                "matchedAtomNames": [
+                    "NZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -41.31399917602539,
+                        "y": 34.992000579833984,
+                        "z": 2.9839999675750732
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -41.31399917602539,
+                    "y": 34.992000579833984,
+                    "z": 2.9839999675750732
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "GLU",
+                "residueNumber": 484,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6071
+                ],
+                "matchedAtomNames": [
+                    "OE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -45.055999755859375,
+                        "y": 36.86199951171875,
+                        "z": 3.0799999237060547
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -45.055999755859375,
+                    "y": 36.86199951171875,
+                    "z": 3.0799999237060547
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 204
+    },
+    {
+        "cluster": 2,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 608,
+        "graphId": 4,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_2_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "LYS",
+                "residueNumber": 31,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    105
+                ],
+                "matchedAtomNames": [
+                    "NZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -41.31399917602539,
+                        "y": 34.992000579833984,
+                        "z": 2.9839999675750732
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -41.31399917602539,
+                    "y": 34.992000579833984,
+                    "z": 2.9839999675750732
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "GLU",
+                "residueNumber": 484,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6071
+                ],
+                "matchedAtomNames": [
+                    "OE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -45.055999755859375,
+                        "y": 36.86199951171875,
+                        "z": 3.0799999237060547
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -45.055999755859375,
+                    "y": 36.86199951171875,
+                    "z": 3.0799999237060547
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 204
+    },
+    {
+        "cluster": 2,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 812,
+        "graphId": 4,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_2_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "LYS",
+                "residueNumber": 31,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    105
+                ],
+                "matchedAtomNames": [
+                    "NZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -41.31399917602539,
+                        "y": 34.992000579833984,
+                        "z": 2.9839999675750732
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -41.31399917602539,
+                    "y": 34.992000579833984,
+                    "z": 2.9839999675750732
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "GLU",
+                "residueNumber": 484,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6071
+                ],
+                "matchedAtomNames": [
+                    "OE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -45.055999755859375,
+                        "y": 36.86199951171875,
+                        "z": 3.0799999237060547
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -45.055999755859375,
+                    "y": 36.86199951171875,
+                    "z": 3.0799999237060547
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 204
+    },
+    {
+        "cluster": 2,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 1016,
+        "graphId": 4,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_2_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "LYS",
+                "residueNumber": 31,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    105
+                ],
+                "matchedAtomNames": [
+                    "NZ"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -41.31399917602539,
+                        "y": 34.992000579833984,
+                        "z": 2.9839999675750732
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -41.31399917602539,
+                    "y": 34.992000579833984,
+                    "z": 2.9839999675750732
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "GLU",
+                "residueNumber": 484,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6071
+                ],
+                "matchedAtomNames": [
+                    "OE2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -45.055999755859375,
+                        "y": 36.86199951171875,
+                        "z": 3.0799999237060547
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -45.055999755859375,
+                    "y": 36.86199951171875,
+                    "z": 3.0799999237060547
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 204
+    },
+    {
+        "cluster": 3,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 1220,
+        "graphId": 0,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_3_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "SER",
+                "residueNumber": 19,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6
+                ],
+                "matchedAtomNames": [
+                    "OG"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -33.20100021362305,
+                        "y": 49.104000091552734,
+                        "z": 1.7640000581741333
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -33.20100021362305,
+                    "y": 49.104000091552734,
+                    "z": 1.7640000581741333
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6012
+                ],
+                "matchedAtomNames": [
+                    "O"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.95399856567383,
+                        "y": 47.016998291015625,
+                        "z": 2.4600000381469727
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.95399856567383,
+                    "y": 47.016998291015625,
+                    "z": 2.4600000381469727
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 135
+    },
+    {
+        "cluster": 3,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 1355,
+        "graphId": 0,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_3_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "SER",
+                "residueNumber": 19,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6
+                ],
+                "matchedAtomNames": [
+                    "OG"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -33.20100021362305,
+                        "y": 49.104000091552734,
+                        "z": 1.7640000581741333
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -33.20100021362305,
+                    "y": 49.104000091552734,
+                    "z": 1.7640000581741333
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6012
+                ],
+                "matchedAtomNames": [
+                    "O"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.95399856567383,
+                        "y": 47.016998291015625,
+                        "z": 2.4600000381469727
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.95399856567383,
+                    "y": 47.016998291015625,
+                    "z": 2.4600000381469727
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 135
+    },
+    {
+        "cluster": 3,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 1490,
+        "graphId": 0,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_3_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "SER",
+                "residueNumber": 19,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6
+                ],
+                "matchedAtomNames": [
+                    "OG"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -33.20100021362305,
+                        "y": 49.104000091552734,
+                        "z": 1.7640000581741333
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -33.20100021362305,
+                    "y": 49.104000091552734,
+                    "z": 1.7640000581741333
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6012
+                ],
+                "matchedAtomNames": [
+                    "O"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.95399856567383,
+                        "y": 47.016998291015625,
+                        "z": 2.4600000381469727
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.95399856567383,
+                    "y": 47.016998291015625,
+                    "z": 2.4600000381469727
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 135
+    },
+    {
+        "cluster": 3,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 1625,
+        "graphId": 0,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_3_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "SER",
+                "residueNumber": 19,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6
+                ],
+                "matchedAtomNames": [
+                    "OG"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -33.20100021362305,
+                        "y": 49.104000091552734,
+                        "z": 1.7640000581741333
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -33.20100021362305,
+                    "y": 49.104000091552734,
+                    "z": 1.7640000581741333
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    6012
+                ],
+                "matchedAtomNames": [
+                    "O"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.95399856567383,
+                        "y": 47.016998291015625,
+                        "z": 2.4600000381469727
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.95399856567383,
+                    "y": 47.016998291015625,
+                    "z": 2.4600000381469727
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 135
+    },
+    {
+        "cluster": 4,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 1760,
+        "graphId": 33,
+        "pdbid": "7dhx",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb7dhx.ent",
+        "chainPairFile": "pdbs/7dhx.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_4_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    3
+                ],
+                "matchedAtomSerials": [
+                    66
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 24.576000213623047,
+                        "y": 29.656999588012695,
+                        "z": 64.39099884033203
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 24.576000213623047,
+                    "y": 29.656999588012695,
+                    "z": 64.39099884033203
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5830
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 26.048999786376953,
+                        "y": 26.461999893188477,
+                        "z": 64.8479995727539
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 26.048999786376953,
+                    "y": 26.461999893188477,
+                    "z": 64.8479995727539
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    5993
+                ],
+                "matchedAtomNames": [
+                    "CB"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 23.33099937438965,
+                        "y": 32.65999984741211,
+                        "z": 66.18499755859375
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 23.33099937438965,
+                    "y": 32.65999984741211,
+                    "z": 66.18499755859375
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            }
+        ],
+        "occurrenceCount": 226
+    },
+    {
+        "cluster": 4,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 1986,
+        "graphId": 33,
+        "pdbid": "7dhx",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb7dhx.ent",
+        "chainPairFile": "pdbs/7dhx.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_4_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    3
+                ],
+                "matchedAtomSerials": [
+                    66
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 24.576000213623047,
+                        "y": 29.656999588012695,
+                        "z": 64.39099884033203
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 24.576000213623047,
+                    "y": 29.656999588012695,
+                    "z": 64.39099884033203
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5830
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 26.048999786376953,
+                        "y": 26.461999893188477,
+                        "z": 64.8479995727539
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 26.048999786376953,
+                    "y": 26.461999893188477,
+                    "z": 64.8479995727539
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    5993
+                ],
+                "matchedAtomNames": [
+                    "CB"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 23.33099937438965,
+                        "y": 32.65999984741211,
+                        "z": 66.18499755859375
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 23.33099937438965,
+                    "y": 32.65999984741211,
+                    "z": 66.18499755859375
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            }
+        ],
+        "occurrenceCount": 226
+    },
+    {
+        "cluster": 4,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 2212,
+        "graphId": 33,
+        "pdbid": "7dhx",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb7dhx.ent",
+        "chainPairFile": "pdbs/7dhx.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_4_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    3
+                ],
+                "matchedAtomSerials": [
+                    66
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 24.576000213623047,
+                        "y": 29.656999588012695,
+                        "z": 64.39099884033203
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 24.576000213623047,
+                    "y": 29.656999588012695,
+                    "z": 64.39099884033203
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5830
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 26.048999786376953,
+                        "y": 26.461999893188477,
+                        "z": 64.8479995727539
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 26.048999786376953,
+                    "y": 26.461999893188477,
+                    "z": 64.8479995727539
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    5993
+                ],
+                "matchedAtomNames": [
+                    "CB"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 23.33099937438965,
+                        "y": 32.65999984741211,
+                        "z": 66.18499755859375
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 23.33099937438965,
+                    "y": 32.65999984741211,
+                    "z": 66.18499755859375
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            }
+        ],
+        "occurrenceCount": 226
+    },
+    {
+        "cluster": 4,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 2438,
+        "graphId": 33,
+        "pdbid": "7dhx",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb7dhx.ent",
+        "chainPairFile": "pdbs/7dhx.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_4_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    3
+                ],
+                "matchedAtomSerials": [
+                    66
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 24.576000213623047,
+                        "y": 29.656999588012695,
+                        "z": 64.39099884033203
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 24.576000213623047,
+                    "y": 29.656999588012695,
+                    "z": 64.39099884033203
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5830
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 26.048999786376953,
+                        "y": 26.461999893188477,
+                        "z": 64.8479995727539
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 26.048999786376953,
+                    "y": 26.461999893188477,
+                    "z": 64.8479995727539
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            },
+            {
+                "pdbid": "7dhx",
+                "model": 0,
+                "chain": "B",
+                "residueName": "ALA",
+                "residueNumber": 475,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    5993
+                ],
+                "matchedAtomNames": [
+                    "CB"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": 23.33099937438965,
+                        "y": 32.65999984741211,
+                        "z": 66.18499755859375
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": 23.33099937438965,
+                    "y": 32.65999984741211,
+                    "z": 66.18499755859375
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb7dhx.ent",
+                "chainPairFile": "pdbs/7dhx.A.pdb"
+            }
+        ],
+        "occurrenceCount": 226
+    },
+    {
+        "cluster": 5,
+        "support": "0.7",
+        "patternId": 0,
+        "representativeOccurrenceId": 2664,
+        "graphId": 2,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_5_pattern_0_support_0.7_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    69
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.37099838256836,
+                        "y": 40.8380012512207,
+                        "z": 2.553999900817871
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.37099838256836,
+                    "y": 40.8380012512207,
+                    "z": 2.553999900817871
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5850
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.46900177001953,
+                        "y": 37.81999969482422,
+                        "z": 4.386000156402588
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.46900177001953,
+                    "y": 37.81999969482422,
+                    "z": 4.386000156402588
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "TYR",
+                "residueNumber": 489,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6109
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.722999572753906,
+                        "y": 40.99700164794922,
+                        "z": 1.2039999961853027
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.722999572753906,
+                    "y": 40.99700164794922,
+                    "z": 1.2039999961853027
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 64
+    },
+    {
+        "cluster": 5,
+        "support": "0.8",
+        "patternId": 0,
+        "representativeOccurrenceId": 2728,
+        "graphId": 2,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_5_pattern_0_support_0.8_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    69
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.37099838256836,
+                        "y": 40.8380012512207,
+                        "z": 2.553999900817871
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.37099838256836,
+                    "y": 40.8380012512207,
+                    "z": 2.553999900817871
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5850
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.46900177001953,
+                        "y": 37.81999969482422,
+                        "z": 4.386000156402588
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.46900177001953,
+                    "y": 37.81999969482422,
+                    "z": 4.386000156402588
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "TYR",
+                "residueNumber": 489,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6109
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.722999572753906,
+                        "y": 40.99700164794922,
+                        "z": 1.2039999961853027
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.722999572753906,
+                    "y": 40.99700164794922,
+                    "z": 1.2039999961853027
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 64
+    },
+    {
+        "cluster": 5,
+        "support": "0.9",
+        "patternId": 0,
+        "representativeOccurrenceId": 2792,
+        "graphId": 2,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_5_pattern_0_support_0.9_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    69
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.37099838256836,
+                        "y": 40.8380012512207,
+                        "z": 2.553999900817871
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.37099838256836,
+                    "y": 40.8380012512207,
+                    "z": 2.553999900817871
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5850
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.46900177001953,
+                        "y": 37.81999969482422,
+                        "z": 4.386000156402588
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.46900177001953,
+                    "y": 37.81999969482422,
+                    "z": 4.386000156402588
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "TYR",
+                "residueNumber": 489,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6109
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.722999572753906,
+                        "y": 40.99700164794922,
+                        "z": 1.2039999961853027
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.722999572753906,
+                    "y": 40.99700164794922,
+                    "z": 1.2039999961853027
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 64
+    },
+    {
+        "cluster": 5,
+        "support": "1.0",
+        "patternId": 0,
+        "representativeOccurrenceId": 2856,
+        "graphId": 2,
+        "pdbid": "6lzg",
+        "chainPair": {
+            "source": "A",
+            "target": "B"
+        },
+        "pdbFile": "/mnt/f/research/cwork_hotspot/pdbfiles/pdb6lzg.ent",
+        "chainPairFile": "pdbs/6lzg.A.pdb",
+        "script": "results_m8_check/visualization/pymol_representative_patterns/cluster_5_pattern_0_support_1.0_representative.pml",
+        "matchedResidues": [
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "A",
+                "residueName": "THR",
+                "residueNumber": 27,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": false,
+                "matchedAtomNodeIds": [
+                    2
+                ],
+                "matchedAtomSerials": [
+                    69
+                ],
+                "matchedAtomNames": [
+                    "CG2"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.37099838256836,
+                        "y": 40.8380012512207,
+                        "z": 2.553999900817871
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.37099838256836,
+                    "y": 40.8380012512207,
+                    "z": 2.553999900817871
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "PHE",
+                "residueNumber": 456,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    0
+                ],
+                "matchedAtomSerials": [
+                    5850
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -34.46900177001953,
+                        "y": 37.81999969482422,
+                        "z": 4.386000156402588
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -34.46900177001953,
+                    "y": 37.81999969482422,
+                    "z": 4.386000156402588
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            },
+            {
+                "pdbid": "6lzg",
+                "model": 0,
+                "chain": "B",
+                "residueName": "TYR",
+                "residueNumber": 489,
+                "residueInsertionCode": "",
+                "heteroFlag": "",
+                "isLigand": true,
+                "matchedAtomNodeIds": [
+                    1
+                ],
+                "matchedAtomSerials": [
+                    6109
+                ],
+                "matchedAtomNames": [
+                    "CE1"
+                ],
+                "matchedAtomCoordinates": [
+                    {
+                        "x": -37.722999572753906,
+                        "y": 40.99700164794922,
+                        "z": 1.2039999961853027
+                    }
+                ],
+                "representativeCoordinates": {
+                    "x": -37.722999572753906,
+                    "y": 40.99700164794922,
+                    "z": 1.2039999961853027
+                },
+                "chainPair": {
+                    "source": "A",
+                    "target": "B"
+                },
+                "pdbFile": "pdbfiles/pdb6lzg.ent",
+                "chainPairFile": "pdbs/6lzg.A.pdb"
+            }
+        ],
+        "occurrenceCount": 64
+    }
+]

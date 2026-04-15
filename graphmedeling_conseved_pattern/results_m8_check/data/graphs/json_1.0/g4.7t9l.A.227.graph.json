@@ -1,0 +1,46 @@
+{
+    "nodes": [
+        {
+            "index": 0,
+            "patterns": [
+                0
+            ],
+            "chain": "D",
+            "atomName": "O",
+            "residueNumber": "353",
+            "residueName": "LYS",
+            "isLigand": true,
+            "role": "target",
+            "atomType": "Acceptor",
+            "color": "#9BCE91",
+            "atomTypeInt": "2"
+        },
+        {
+            "index": 1,
+            "patterns": [
+                0
+            ],
+            "chain": "A",
+            "atomName": "N",
+            "residueNumber": "502",
+            "residueName": "GLY",
+            "isLigand": false,
+            "role": "ligand",
+            "atomType": "Donor",
+            "color": "#7CB4BE",
+            "atomTypeInt": "5"
+        }
+    ],
+    "links": [
+        {
+            "patterns": [
+                0
+            ],
+            "source": 1,
+            "target": 0,
+            "interactionType": "Hydrogen bond",
+            "distance": "2.992808183956472",
+            "interactionTypeInt": "31"
+        }
+    ]
+}

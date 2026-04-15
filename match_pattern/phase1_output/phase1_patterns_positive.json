@@ -1,0 +1,6574 @@
+[
+  {
+    "pattern_id": "POSITIVE_1",
+    "pattern_class": "positive",
+    "source_graph_id": 10,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 10,
+        "title": null,
+        "pdbid": "1an7",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_2",
+    "pattern_class": "positive",
+    "source_graph_id": 11,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 11,
+        "title": null,
+        "pdbid": "1an7",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_3",
+    "pattern_class": "positive",
+    "source_graph_id": 13,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 13,
+        "title": null,
+        "pdbid": "1an7",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_4",
+    "pattern_class": "positive",
+    "source_graph_id": 14,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 14,
+        "title": null,
+        "pdbid": "1an7",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_5",
+    "pattern_class": "positive",
+    "source_graph_id": 21,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 21,
+        "title": null,
+        "pdbid": "1aoh",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 17,
+          "id": "3"
+        },
+        {
+          "type": 4,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 512,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_6",
+    "pattern_class": "positive",
+    "source_graph_id": 23,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 23,
+        "title": null,
+        "pdbid": "1aoh",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 4,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 17,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_7",
+    "pattern_class": "positive",
+    "source_graph_id": 25,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 25,
+        "title": null,
+        "pdbid": "1ay9",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_8",
+    "pattern_class": "positive",
+    "source_graph_id": 26,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 26,
+        "title": null,
+        "pdbid": "1ay9",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_9",
+    "pattern_class": "positive",
+    "source_graph_id": 32,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 32,
+        "title": null,
+        "pdbid": "1b3u",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 17,
+          "id": "1"
+        },
+        {
+          "type": 4,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 512,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_10",
+    "pattern_class": "positive",
+    "source_graph_id": 33,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 33,
+        "title": null,
+        "pdbid": "1b3u",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_11",
+    "pattern_class": "positive",
+    "source_graph_id": 53,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 53,
+        "title": null,
+        "pdbid": "1bfm",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_12",
+    "pattern_class": "positive",
+    "source_graph_id": 59,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 59,
+        "title": null,
+        "pdbid": "1bfm",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_13",
+    "pattern_class": "positive",
+    "source_graph_id": 71,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 71,
+        "title": null,
+        "pdbid": "1bk5",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 17,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 4,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 512,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_14",
+    "pattern_class": "positive",
+    "source_graph_id": 79,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 79,
+        "title": null,
+        "pdbid": "1bk5",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 17,
+          "id": "0"
+        },
+        {
+          "type": 4,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_15",
+    "pattern_class": "positive",
+    "source_graph_id": 82,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 82,
+        "title": null,
+        "pdbid": "1bl8",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        },
+        {
+          "type": 8,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_16",
+    "pattern_class": "positive",
+    "source_graph_id": 89,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 89,
+        "title": null,
+        "pdbid": "1bl8",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_17",
+    "pattern_class": "positive",
+    "source_graph_id": 94,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 94,
+        "title": null,
+        "pdbid": "1bl8",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_18",
+    "pattern_class": "positive",
+    "source_graph_id": 95,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 95,
+        "title": null,
+        "pdbid": "1bm0",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 16,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_19",
+    "pattern_class": "positive",
+    "source_graph_id": 97,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 97,
+        "title": null,
+        "pdbid": "1bm0",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_20",
+    "pattern_class": "positive",
+    "source_graph_id": 98,
+    "num_nodes": 6,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 98,
+        "title": null,
+        "pdbid": "1bm0",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_21",
+    "pattern_class": "positive",
+    "source_graph_id": 120,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 120,
+        "title": null,
+        "pdbid": "1bqu",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_22",
+    "pattern_class": "positive",
+    "source_graph_id": 133,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 133,
+        "title": null,
+        "pdbid": "1bz8",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_23",
+    "pattern_class": "positive",
+    "source_graph_id": 146,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 146,
+        "title": null,
+        "pdbid": "1bzd",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_24",
+    "pattern_class": "positive",
+    "source_graph_id": 179,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 179,
+        "title": null,
+        "pdbid": "1c17",
+        "source": "K",
+        "target": "L"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_25",
+    "pattern_class": "positive",
+    "source_graph_id": 182,
+    "num_nodes": 7,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 182,
+        "title": null,
+        "pdbid": "1c17",
+        "source": "K",
+        "target": "L"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        },
+        {
+          "type": 32,
+          "id": "6"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "6"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "6"
+        },
+        {
+          "type": 1024,
+          "source": "4",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "5",
+          "target": "6"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_26",
+    "pattern_class": "positive",
+    "source_graph_id": 186,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 186,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_27",
+    "pattern_class": "positive",
+    "source_graph_id": 189,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 189,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_28",
+    "pattern_class": "positive",
+    "source_graph_id": 192,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 192,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 2,
+          "id": "0"
+        },
+        {
+          "type": 2,
+          "id": "1"
+        },
+        {
+          "type": 2,
+          "id": "2"
+        },
+        {
+          "type": 2,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 128,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 128,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 128,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_29",
+    "pattern_class": "positive",
+    "source_graph_id": 193,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 193,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 2,
+          "id": "0"
+        },
+        {
+          "type": 2,
+          "id": "1"
+        },
+        {
+          "type": 2,
+          "id": "2"
+        },
+        {
+          "type": 2,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 128,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 128,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 128,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_30",
+    "pattern_class": "positive",
+    "source_graph_id": 202,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 202,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_31",
+    "pattern_class": "positive",
+    "source_graph_id": 205,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 205,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 1,
+          "id": "0"
+        },
+        {
+          "type": 36,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_32",
+    "pattern_class": "positive",
+    "source_graph_id": 206,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 206,
+        "title": null,
+        "pdbid": "1c1a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_33",
+    "pattern_class": "positive",
+    "source_graph_id": 212,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 212,
+        "title": null,
+        "pdbid": "1c39",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_34",
+    "pattern_class": "positive",
+    "source_graph_id": 222,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 222,
+        "title": null,
+        "pdbid": "1c3h",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_35",
+    "pattern_class": "positive",
+    "source_graph_id": 224,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 224,
+        "title": null,
+        "pdbid": "1c3h",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        },
+        {
+          "type": 8,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_36",
+    "pattern_class": "positive",
+    "source_graph_id": 226,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 226,
+        "title": null,
+        "pdbid": "1c3h",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_37",
+    "pattern_class": "positive",
+    "source_graph_id": 231,
+    "num_nodes": 6,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 231,
+        "title": null,
+        "pdbid": "1c3h",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        },
+        {
+          "type": 16,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_38",
+    "pattern_class": "positive",
+    "source_graph_id": 237,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 237,
+        "title": null,
+        "pdbid": "1c3h",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_39",
+    "pattern_class": "positive",
+    "source_graph_id": 241,
+    "num_nodes": 6,
+    "num_edges": 8,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 241,
+        "title": null,
+        "pdbid": "1c4r",
+        "source": "G",
+        "target": "H"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 17,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 36,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2560,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_40",
+    "pattern_class": "positive",
+    "source_graph_id": 242,
+    "num_nodes": 8,
+    "num_edges": 14,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 242,
+        "title": null,
+        "pdbid": "1c4r",
+        "source": "G",
+        "target": "H"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        },
+        {
+          "type": 32,
+          "id": "6"
+        },
+        {
+          "type": 32,
+          "id": "7"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "6"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "6"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "7"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "7"
+        },
+        {
+          "type": 1024,
+          "source": "4",
+          "target": "5"
+        },
+        {
+          "type": 1024,
+          "source": "4",
+          "target": "7"
+        },
+        {
+          "type": 1024,
+          "source": "5",
+          "target": "6"
+        },
+        {
+          "type": 1024,
+          "source": "6",
+          "target": "7"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_41",
+    "pattern_class": "positive",
+    "source_graph_id": 244,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 244,
+        "title": null,
+        "pdbid": "1cf1",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_42",
+    "pattern_class": "positive",
+    "source_graph_id": 246,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 246,
+        "title": null,
+        "pdbid": "1cf1",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_43",
+    "pattern_class": "positive",
+    "source_graph_id": 248,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 248,
+        "title": null,
+        "pdbid": "1cj1",
+        "source": "K",
+        "target": "L"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        },
+        {
+          "type": 8,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_44",
+    "pattern_class": "positive",
+    "source_graph_id": 252,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 252,
+        "title": null,
+        "pdbid": "1cj1",
+        "source": "K",
+        "target": "L"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        },
+        {
+          "type": 8,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_45",
+    "pattern_class": "positive",
+    "source_graph_id": 273,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 273,
+        "title": null,
+        "pdbid": "1cta",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_46",
+    "pattern_class": "positive",
+    "source_graph_id": 278,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 278,
+        "title": null,
+        "pdbid": "1cta",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_47",
+    "pattern_class": "positive",
+    "source_graph_id": 279,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 279,
+        "title": null,
+        "pdbid": "1ctd",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_48",
+    "pattern_class": "positive",
+    "source_graph_id": 281,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 281,
+        "title": null,
+        "pdbid": "1ctd",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_49",
+    "pattern_class": "positive",
+    "source_graph_id": 292,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 292,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_50",
+    "pattern_class": "positive",
+    "source_graph_id": 293,
+    "num_nodes": 6,
+    "num_edges": 8,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 293,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 36,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 17,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2560,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_51",
+    "pattern_class": "positive",
+    "source_graph_id": 295,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 295,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_52",
+    "pattern_class": "positive",
+    "source_graph_id": 296,
+    "num_nodes": 6,
+    "num_edges": 8,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 296,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 17,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 36,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 2560,
+          "source": "3",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_53",
+    "pattern_class": "positive",
+    "source_graph_id": 302,
+    "num_nodes": 5,
+    "num_edges": 6,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 302,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_54",
+    "pattern_class": "positive",
+    "source_graph_id": 303,
+    "num_nodes": 6,
+    "num_edges": 6,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 303,
+        "title": null,
+        "pdbid": "1cz7",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 17,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 36,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2560,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_55",
+    "pattern_class": "positive",
+    "source_graph_id": 314,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 314,
+        "title": null,
+        "pdbid": "1d2o",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_56",
+    "pattern_class": "positive",
+    "source_graph_id": 324,
+    "num_nodes": 6,
+    "num_edges": 8,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 324,
+        "title": null,
+        "pdbid": "1d7m",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 36,
+          "id": "4"
+        },
+        {
+          "type": 17,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 2560,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_57",
+    "pattern_class": "positive",
+    "source_graph_id": 325,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 325,
+        "title": null,
+        "pdbid": "1d7m",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_58",
+    "pattern_class": "positive",
+    "source_graph_id": 338,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 338,
+        "title": null,
+        "pdbid": "1d7m",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_59",
+    "pattern_class": "positive",
+    "source_graph_id": 348,
+    "num_nodes": 6,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 348,
+        "title": null,
+        "pdbid": "1d7m",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 36,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 17,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 16,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2560,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_60",
+    "pattern_class": "positive",
+    "source_graph_id": 354,
+    "num_nodes": 6,
+    "num_edges": 6,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 354,
+        "title": null,
+        "pdbid": "1d7m",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_61",
+    "pattern_class": "positive",
+    "source_graph_id": 368,
+    "num_nodes": 6,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 368,
+        "title": null,
+        "pdbid": "1deb",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 36,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 17,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 2560,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_62",
+    "pattern_class": "positive",
+    "source_graph_id": 371,
+    "num_nodes": 6,
+    "num_edges": 7,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 371,
+        "title": null,
+        "pdbid": "1deb",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 36,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        },
+        {
+          "type": 17,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2560,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_63",
+    "pattern_class": "positive",
+    "source_graph_id": 373,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 373,
+        "title": null,
+        "pdbid": "1deb",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_64",
+    "pattern_class": "positive",
+    "source_graph_id": 375,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 375,
+        "title": null,
+        "pdbid": "1deb",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_65",
+    "pattern_class": "positive",
+    "source_graph_id": 377,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 377,
+        "title": null,
+        "pdbid": "1df8",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 17,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 17,
+          "id": "2"
+        },
+        {
+          "type": 36,
+          "id": "3"
+        },
+        {
+          "type": 4,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2560,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 512,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_66",
+    "pattern_class": "positive",
+    "source_graph_id": 381,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 381,
+        "title": null,
+        "pdbid": "1df8",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 17,
+          "id": "0"
+        },
+        {
+          "type": 17,
+          "id": "1"
+        },
+        {
+          "type": 36,
+          "id": "2"
+        },
+        {
+          "type": 4,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2560,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_67",
+    "pattern_class": "positive",
+    "source_graph_id": 390,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 390,
+        "title": null,
+        "pdbid": "1dfc",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 36,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 1,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_68",
+    "pattern_class": "positive",
+    "source_graph_id": 395,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 395,
+        "title": null,
+        "pdbid": "1dj8",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_69",
+    "pattern_class": "positive",
+    "source_graph_id": 411,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 411,
+        "title": null,
+        "pdbid": "1dum",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_70",
+    "pattern_class": "positive",
+    "source_graph_id": 414,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 414,
+        "title": null,
+        "pdbid": "1dum",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_71",
+    "pattern_class": "positive",
+    "source_graph_id": 428,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 428,
+        "title": null,
+        "pdbid": "1dxx",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_72",
+    "pattern_class": "positive",
+    "source_graph_id": 432,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 432,
+        "title": null,
+        "pdbid": "1dxx",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_73",
+    "pattern_class": "positive",
+    "source_graph_id": 440,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 440,
+        "title": null,
+        "pdbid": "1dxx",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_74",
+    "pattern_class": "positive",
+    "source_graph_id": 442,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 442,
+        "title": null,
+        "pdbid": "1dxx",
+        "source": "C",
+        "target": "D"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_75",
+    "pattern_class": "positive",
+    "source_graph_id": 451,
+    "num_nodes": 6,
+    "num_edges": 8,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 451,
+        "title": null,
+        "pdbid": "1dzp",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_76",
+    "pattern_class": "positive",
+    "source_graph_id": 480,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 480,
+        "title": null,
+        "pdbid": "1e7n",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_77",
+    "pattern_class": "positive",
+    "source_graph_id": 495,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 495,
+        "title": null,
+        "pdbid": "1e8a",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 39,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 39,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1664,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_78",
+    "pattern_class": "positive",
+    "source_graph_id": 528,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 528,
+        "title": null,
+        "pdbid": "1e9r",
+        "source": "F",
+        "target": "G"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_79",
+    "pattern_class": "positive",
+    "source_graph_id": 529,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 529,
+        "title": null,
+        "pdbid": "1e9r",
+        "source": "F",
+        "target": "G"
+      },
+      "nodes": [
+        {
+          "type": 4,
+          "id": "0"
+        },
+        {
+          "type": 4,
+          "id": "1"
+        },
+        {
+          "type": 1,
+          "id": "2"
+        },
+        {
+          "type": 1,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 512,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 512,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_80",
+    "pattern_class": "positive",
+    "source_graph_id": 536,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 536,
+        "title": null,
+        "pdbid": "1e9s",
+        "source": "L",
+        "target": "M"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_81",
+    "pattern_class": "positive",
+    "source_graph_id": 540,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 540,
+        "title": null,
+        "pdbid": "1e9s",
+        "source": "L",
+        "target": "M"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_82",
+    "pattern_class": "positive",
+    "source_graph_id": 550,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 550,
+        "title": null,
+        "pdbid": "1e9s",
+        "source": "L",
+        "target": "M"
+      },
+      "nodes": [
+        {
+          "type": 4,
+          "id": "0"
+        },
+        {
+          "type": 4,
+          "id": "1"
+        },
+        {
+          "type": 1,
+          "id": "2"
+        },
+        {
+          "type": 1,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 512,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 512,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 512,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_83",
+    "pattern_class": "positive",
+    "source_graph_id": 568,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 568,
+        "title": null,
+        "pdbid": "1ebo",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_84",
+    "pattern_class": "positive",
+    "source_graph_id": 577,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 577,
+        "title": null,
+        "pdbid": "1ebo",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_85",
+    "pattern_class": "positive",
+    "source_graph_id": 579,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 579,
+        "title": null,
+        "pdbid": "1ebo",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_86",
+    "pattern_class": "positive",
+    "source_graph_id": 582,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 582,
+        "title": null,
+        "pdbid": "1ebo",
+        "source": "E",
+        "target": "F"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_87",
+    "pattern_class": "positive",
+    "source_graph_id": 621,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 621,
+        "title": null,
+        "pdbid": "1ejq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_88",
+    "pattern_class": "positive",
+    "source_graph_id": 624,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 624,
+        "title": null,
+        "pdbid": "1ejq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_89",
+    "pattern_class": "positive",
+    "source_graph_id": 625,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 625,
+        "title": null,
+        "pdbid": "1em9",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 1024,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_90",
+    "pattern_class": "positive",
+    "source_graph_id": 649,
+    "num_nodes": 5,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 649,
+        "title": null,
+        "pdbid": "1ewk",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 17,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 36,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 16,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2560,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_91",
+    "pattern_class": "positive",
+    "source_graph_id": 653,
+    "num_nodes": 6,
+    "num_edges": 5,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 653,
+        "title": null,
+        "pdbid": "1ewt",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        },
+        {
+          "type": 8,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "4",
+          "target": "5"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_92",
+    "pattern_class": "positive",
+    "source_graph_id": 662,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 662,
+        "title": null,
+        "pdbid": "1ewv",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 1024,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_93",
+    "pattern_class": "positive",
+    "source_graph_id": 663,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 663,
+        "title": null,
+        "pdbid": "1ewv",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 1024,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_94",
+    "pattern_class": "positive",
+    "source_graph_id": 666,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 666,
+        "title": null,
+        "pdbid": "1ex4",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_95",
+    "pattern_class": "positive",
+    "source_graph_id": 671,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 671,
+        "title": null,
+        "pdbid": "1ex4",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_96",
+    "pattern_class": "positive",
+    "source_graph_id": 677,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 677,
+        "title": null,
+        "pdbid": "1ex4",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_97",
+    "pattern_class": "positive",
+    "source_graph_id": 680,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 680,
+        "title": null,
+        "pdbid": "1ex4",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_98",
+    "pattern_class": "positive",
+    "source_graph_id": 682,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 682,
+        "title": null,
+        "pdbid": "1ex4",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_99",
+    "pattern_class": "positive",
+    "source_graph_id": 688,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 688,
+        "title": null,
+        "pdbid": "1exq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_100",
+    "pattern_class": "positive",
+    "source_graph_id": 690,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 690,
+        "title": null,
+        "pdbid": "1exq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 32,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_101",
+    "pattern_class": "positive",
+    "source_graph_id": 691,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 691,
+        "title": null,
+        "pdbid": "1exq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "3",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_102",
+    "pattern_class": "positive",
+    "source_graph_id": 693,
+    "num_nodes": 5,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 693,
+        "title": null,
+        "pdbid": "1exq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        },
+        {
+          "type": 8,
+          "id": "4"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "4"
+        },
+        {
+          "type": 256,
+          "source": "2",
+          "target": "4"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_103",
+    "pattern_class": "positive",
+    "source_graph_id": 696,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 696,
+        "title": null,
+        "pdbid": "1exq",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 8,
+          "id": "0"
+        },
+        {
+          "type": 8,
+          "id": "1"
+        },
+        {
+          "type": 8,
+          "id": "2"
+        },
+        {
+          "type": 8,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 256,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "2"
+        },
+        {
+          "type": 256,
+          "source": "1",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_104",
+    "pattern_class": "positive",
+    "source_graph_id": 701,
+    "num_nodes": 4,
+    "num_edges": 4,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 701,
+        "title": null,
+        "pdbid": "1ext",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 16,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_105",
+    "pattern_class": "positive",
+    "source_graph_id": 702,
+    "num_nodes": 6,
+    "num_edges": 6,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 702,
+        "title": null,
+        "pdbid": "1ext",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 16,
+          "id": "0"
+        },
+        {
+          "type": 32,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        },
+        {
+          "type": 32,
+          "id": "4"
+        },
+        {
+          "type": 32,
+          "id": "5"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "4"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "2"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "5"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "2",
+          "target": "3"
+        }
+      ]
+    }
+  },
+  {
+    "pattern_id": "POSITIVE_106",
+    "pattern_class": "positive",
+    "source_graph_id": 703,
+    "num_nodes": 4,
+    "num_edges": 3,
+    "graph_data": {
+      "directed": false,
+      "multigraph": false,
+      "graph": {
+        "id": 703,
+        "title": null,
+        "pdbid": "1ext",
+        "source": "A",
+        "target": "B"
+      },
+      "nodes": [
+        {
+          "type": 32,
+          "id": "0"
+        },
+        {
+          "type": 16,
+          "id": "1"
+        },
+        {
+          "type": 32,
+          "id": "2"
+        },
+        {
+          "type": 16,
+          "id": "3"
+        }
+      ],
+      "links": [
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "3"
+        },
+        {
+          "type": 2048,
+          "source": "0",
+          "target": "1"
+        },
+        {
+          "type": 2048,
+          "source": "1",
+          "target": "2"
+        }
+      ]
+    }
+  }
+]

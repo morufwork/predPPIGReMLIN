@@ -1,0 +1,14 @@
+{
+  "positive_train_graphs_file": "camp_training_graphs.txt",
+  "negative_train_graphs_file": null,
+  "corpus_graphs_file": "corpus_filtertest_camp_graphs.txt",
+  "graph_path": "gSpan/gSpan-64",
+  "min_graph_size": 3,
+  "num_positive_training_graphs": 1000,
+  "num_negative_training_graphs": 0,
+  "num_corpus_graphs": 200,
+  "num_positive_patterns": 106,
+  "num_negative_patterns": 91,
+  "num_total_patterns": 197,
+  "used_test_data": false
+}
