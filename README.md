@@ -128,48 +128,7 @@ Run:
 jupyter notebook multilabel/multilabel_multiclass_prediction.ipynb
 ```
 
-This folder is exploratory rather than a packaged CLI pipeline. The CSV file is the input dataset consumed by the notebook.
 
-## `Dataset/`
 
-`Dataset/` is included in the repository exactly as arranged in this directory, but it is treated as bundled reference data rather than one of the runnable folders documented above.
 
-It contains:
 
-- `Dataset/masif/`: benchmark scripts and pretrained/model assets related to MaSIF workflows.
-- `Dataset/scanNet/`: ScanNet label splits and metadata tables.
-
-I am intentionally not listing per-folder run instructions for `Dataset/`, per your request.
-
-## Reproducibility checklist
-
-To support the statement below in a manuscript, report, or release note, the repository already contains the needed pieces:
-
-> We added an inference script for new protein inputs and a usage example with input and output files to facilitate reproducibility and ease of use.
-
-Use these exact references:
-
-- Inference script for new protein inputs: `graphmedeling_conseved_pattern/main.py`
-- Example input file: `graphmedeling_conseved_pattern/test_even2.txt`
-- Example output folder: `graphmedeling_conseved_pattern/results_m8_check/`
-- Additional inference/feature-generation script: `searchPattern/main.py`
-- Additional example outputs: `searchPattern/phase1_output/`
-
-## Large graph files
-
-Some combined graph corpora under `match_pattern/gSpan/gSpan-64/` are derived aggregation files and may exceed GitHub's recommended or hard size limits.
-
-The repository keeps the split training and testing chunks such as:
-
-- `match_pattern/gSpan/gSpan-64/masif_train/`
-- `match_pattern/gSpan/gSpan-64/masif_test/`
-- `match_pattern/gSpan/gSpan-64/scanet_train/`
-- `match_pattern/gSpan/gSpan-64/scanet_test/`
-
-If needed, the larger combined `*.txt` graph files can be regenerated locally from those chunked inputs rather than stored in GitHub.
-
-## Known limitations
-
-- `searchPattern/main.py` could not be executed in the current environment because `pandas` is not installed.
-- The MaSIF scripts in `Dataset/masif/` depend on an external MaSIF source checkout and environment variables resolved by their shell wrappers.
-- The `multilabel/` workflow is notebook-first and does not currently expose a standalone command-line script.
